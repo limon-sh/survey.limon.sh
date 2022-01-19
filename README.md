@@ -1,5 +1,7 @@
 # service
 
+[![Deploy to Amazon S3](https://github.com/limon-sh/survey.limon.sh/actions/workflows/aws.yml/badge.svg?branch=master&event=push)](https://github.com/limon-sh/survey.limon.sh/actions/workflows/aws.yml)
+
 ## Project setup
 ```
 npm install
