@@ -9,6 +9,10 @@ jobs:
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
+    environment: production
+    defaults:
+      run:
+        working-directory: ./service
 
     steps:
       - name: Checkout
